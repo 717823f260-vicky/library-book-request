@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-23 16:13:31</sys_created_on>
+        <sys_id>2f981a9bc3a9c350c0021cedd401315c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1877526_librar_1_library_book_request.x_1877526_librar_1.admin</sys_name>
+        <sys_package display_value="Library Book Request" source="x_1877526_librar_1">b9389a5bc3a9c350c0021cedd401311e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Book Request">b9389a5bc3a9c350c0021cedd401311e</sys_scope>
+        <sys_security_acl display_value="x_1877526_librar_1_library_book_request">43981a9bc3a9c350c0021cedd4013122</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2f981a9bc3a9c350c0021cedd401315c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-23 16:13:31</sys_updated_on>
+        <sys_user_role display_value="x_1877526_librar_1.admin" name="x_1877526_librar_1.admin">82389a5bc3a9c350c0021cedd4013174</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

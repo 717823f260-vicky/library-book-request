@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true,timeFromCreateToActivate=21000" db_object_id="8a88169bc3a9c350c0021cedd40131bb" label="Library Book Request" max_length="40" name="x_1877526_librar_1_library_book_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Request Number" max_length="40" name="number" type="string"/>
+        <element label="Author Name" max_length="40" name="author_name" type="string"/>
+        <element label="Request Number" max_length="40" name="request_number" type="string"/>
+        <element label="Book Name" max_length="40" name="book_name" type="string"/>
+        <element label="Return Date" max_length="40" name="return_date" type="glide_date"/>
+        <element label="Issue Date" max_length="40" name="issue_date" type="glide_date"/>
+        <element label="Student ID" max_length="40" name="student_id" type="string"/>
+        <element label="Student Name" max_length="40" name="student_name" type="string"/>
+    </element>
+</database>

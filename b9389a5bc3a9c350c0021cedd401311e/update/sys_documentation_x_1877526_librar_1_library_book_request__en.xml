@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Library Book Request" language="en" table="x_1877526_librar_1_library_book_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Library Book Request</label>
+            <language>en</language>
+            <name>x_1877526_librar_1_library_book_request</name>
+            <plural>Library Book Requests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-23 16:13:09</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Library Book Request</sys_name>
+            <sys_package display_value="Library Book Request" source="x_1877526_librar_1">b9389a5bc3a9c350c0021cedd401311e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Library Book Request">b9389a5bc3a9c350c0021cedd401311e</sys_scope>
+            <sys_update_name>sys_documentation_x_1877526_librar_1_library_book_request__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-23 16:13:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
